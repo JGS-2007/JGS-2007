@@ -1,7 +1,7 @@
 ### Oiie sou João Gabriel! Estudante de Desenvolvimento de Sistemas 👋
 
 - 🔭 Atualmente trabalho no auto desenvolvimento
-- 🌱 Estudando HTML5, CSS3 & Python
+- 🌱 Estudando HTML5, CSS3 & JavaScript
 
 <div align="center">
   <a href="https://github.com/jgs-2007">
